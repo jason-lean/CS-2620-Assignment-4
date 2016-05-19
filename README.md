@@ -26,5 +26,6 @@ verifies the response from proxy server.
 
 #### What's included:
 
-- `client.py`: client code that sends GET requests and verifies server response
 - `server.py`: server code that processes GET requests and sends response for verification
+- `client.py`: client code that sends GET requests and verifies server response
+
